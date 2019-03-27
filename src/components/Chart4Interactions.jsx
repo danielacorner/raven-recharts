@@ -10,6 +10,12 @@ import {
   Brush,
 } from 'recharts';
 
+// TODO: linked tiny line charts
+// TODO: reference line annotations http://recharts.org/en-US/examples/LineChartWithReferenceLines
+// TODO: highlight and zoom http://recharts.org/en-US/examples/HighlightAndZoomLineChart
+// TODO: AreaChartFillByValue http://recharts.org/en-US/examples/AreaChartFillByValue
+// TODO: LegendEffectOpacity http://recharts.org/en-US/examples/LegendEffectOpacity
+
 const Chart4Interactions = ({ data }) => {
   return (
     <>
