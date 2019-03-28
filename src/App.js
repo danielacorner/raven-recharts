@@ -28,7 +28,7 @@ const App = () => {
           {/* <Chart2Custom data={simpleData} /> */}
           {/* <Chart3Butterfly data={simpleData} /> */}
           {/* <Chart4Interactions data={simpleData} /> */}
-          <Chart5DeadButterfly data={simpleData} />
+          {/* <Chart5DeadButterfly data={simpleData} /> */}
         </div>
       </header>
     </div>
